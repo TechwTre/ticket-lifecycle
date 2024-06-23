@@ -1,14 +1,15 @@
-# ticket-lifecycle<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+This tutorial outlines the ticket lifecycle from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<br />
+Part 1: Ticket Creation (2 steps) 
+<br />
+Part 2: Answering tickets and troubleshooting Permissions (8 steps)
+<br />
+Part 3: Assigning, escalating, and closing tickets (8 steps)
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,14 +19,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
+- Windows Server 2022
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>List of Prerequisites</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Microsoft Azure Active Subscription (Creation of Reasearch Group, VMs, Virtual Networks, Subnets)
+- Enable Internet Information Services(IIS)
+- PHP Manager
+- Rewrite Manager
+- C++ Redistributbal
+- MySQL Server
+- Install osTicket
+- Assigning Permissions
+- osTicket
+- Chief User: Tre
+- Agents: jane.doe and john.doe
 
 <h2>Lifecycle Stages</h2>
 
