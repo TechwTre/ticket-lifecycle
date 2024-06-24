@@ -38,26 +38,34 @@ Part 3: Assigning, escalating, and closing tickets
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/7ac0681a-0630-4522-872f-31d50288bce3)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/a003dd57-7473-43c8-8614-27a857de3813)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/19c6cc0a-e241-46fe-bce3-0a2da32b71e7)
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bb92e61e-d567-4975-a6bf-18f3d185c996)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bf960121-5042-486e-b8dc-e86354f2d487)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/83afc28a-98bb-41a9-8606-bfd0751cdd04)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/75730135-9c04-4bad-b3ec-201aefbb68ae)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/0ba8ad41-b140-48e7-aabe-83cb5c6d012d)
 </p>
 <br />
