@@ -69,3 +69,67 @@ Part 3: Assigning, escalating, and closing tickets
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/0ba8ad41-b140-48e7-aabe-83cb5c6d012d)
 </p>
 <br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bc843c65-38b6-4c08-8a65-4581535900b1)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/5a3245e8-2571-4d22-a5fb-9a1679d8ed78)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/be1d0717-d53d-4601-8b82-b68fc74272c7)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/a7fa30bc-4045-4623-a343-35c0f7398631)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/adae0df3-bb3a-44b1-8ba2-e9e40675bd15)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/f07116f5-512b-45c5-94d0-b0a3b95e795b)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/0d91bfbb-eeba-4a09-ba35-d2addeb315dc)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/4aa9a94a-bb47-49e5-9e6b-4be64956ac09)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/ee53b56a-ced9-4178-877f-934379ba4a10)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/80e0f1a0-0cd5-43a0-87fe-c23366e4089e)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/ca84bffd-e200-4587-b0ec-03009e8de24f)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/1500083f-58f7-412c-97c4-4d93e0ac67ac)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/b92c5b64-a7ee-489d-938c-e110d1667186)
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
