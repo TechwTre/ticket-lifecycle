@@ -71,7 +71,7 @@ Step 1: Help desk would navigate to "http://localhost/osTicket/scp/login.php" an
 Step 2: Once the permissions have been granted to the Help desk employee we can overview the Tickets that clients have submitted through our staff panel
 </p>
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/5a3245e8-2571-4d22-a5fb-9a1679d8ed78)
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/49967e91-9b03-4de6-bc42-788ce124e2af)
 </p>
 <br />
 
@@ -83,16 +83,32 @@ Step 3: Logged out of the Agent panel to log in through the Admin panel to set u
 <br />
 
 Step 4: Once the department has been created, we have now set agents in there appropriate destinations to have access to certain permissions 
+</p>
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/63c495d1-10ff-48e4-931f-a2a6200f86ab)
 </p>
 <br />
 
+Step 5: Here we can navigate to the "manage" tab in the Admin panel to set our Service Level Agreements for our Agents. This will aid in the organization of the Priority status of the tickets submitted through our system ex. (SEV-A, 1hr Grace Period)
+</p>
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/8a4680b2-430a-47f0-9db8-7caede478ea3)
+</p>
+<br />
 
+Step 6: Here we can configure our Help topics for each ticket that will come through our system to organize severity of the tickets to allow agents to know where focus should be in terms of the Tickets they may have to resolve for the day. ex. (Business Critical Outage)
+</p>
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/001e26ba-86e3-448a-912b-480dca5b30a4)
+</p>
+<br />
 
+Step 7: This is the dashboard for our agent Jane after we have signed out of the Admin panel back into the staff panel and granted proper permissions we can see the tickets that have come through to now allow Agents to perform their duties. 
+</p>
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/008f1652-fd6c-4911-b9f1-53547f5e6a66)
+</p>
+<br />
 
 
 
