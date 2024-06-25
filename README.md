@@ -6,7 +6,7 @@ This tutorial outlines the ticket lifecycle from intake to resolution within the
 <br />
 Part 1: Ticket Creation  
 <br />
-Part 2: Answering tickets and troubleshooting Permissions 
+Part 2: Resolving Tickets and Troubleshooting Permissions 
 <br />
 Part 3: Assigning, escalating, and closing tickets 
 <br />
@@ -36,91 +36,58 @@ Part 3: Assigning, escalating, and closing tickets
 - Chief User: Tre
 - Agents: jane.doe and john.doe
 
-<h2>Lifecycle Stages</h2>
+<h2>Part 1: Ticket Creation</h2>
+
+Step 1: This is the Support center where users can create an account to submit Tickets. Click Open a New Ticket.
+</p>
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/7ac0681a-0630-4522-872f-31d50288bce3)
 </p>
 <br />
 
+Step 2: Fill out the Client form and Ticket information. Click create Ticket (ex: Jim Hardware, Tim Eugene)
+</p>
+
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/a003dd57-7473-43c8-8614-27a857de3813)
 </p>
 <br />
+
+Step 3: Client support Ticket request has been created
+</p>
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/19c6cc0a-e241-46fe-bce3-0a2da32b71e7)
 </p>
 <br />
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bb92e61e-d567-4975-a6bf-18f3d185c996)
+<h2>Part 2: Resolving Tickets/ Troubleshooting Permissions</h2>
+
+Step 1: Help desk would navigate to "http://localhost/osTicket/scp/login.php" and enter credentials to begin resolving Tickets
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/4374b5ca-1838-4b70-8701-6df07aa65165)
 </p>
 <br />
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bf960121-5042-486e-b8dc-e86354f2d487)
+Step 2: Once the permissions have been granted to the Help desk employee we can overview the Tickets that clients have submitted through our staff panel
 </p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/83afc28a-98bb-41a9-8606-bfd0751cdd04)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/75730135-9c04-4bad-b3ec-201aefbb68ae)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/0ba8ad41-b140-48e7-aabe-83cb5c6d012d)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bc843c65-38b6-4c08-8a65-4581535900b1)
-</p>
-<br />
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/5a3245e8-2571-4d22-a5fb-9a1679d8ed78)
 </p>
 <br />
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/be1d0717-d53d-4601-8b82-b68fc74272c7)
+Step 3: Logged out of the Agent panel to log in through the Admin panel to set up departments ex. (System Administrators)
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/bca5f385-b9ba-4721-b4d8-350f2d7e9ebd)
 </p>
 <br />
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/a7fa30bc-4045-4623-a343-35c0f7398631)
+Step 4: Once the department has been created, we have now set agents in there appropriate destinations to have access to certain permissions 
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/63c495d1-10ff-48e4-931f-a2a6200f86ab)
 </p>
 <br />
 
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/adae0df3-bb3a-44b1-8ba2-e9e40675bd15)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/f07116f5-512b-45c5-94d0-b0a3b95e795b)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/0d91bfbb-eeba-4a09-ba35-d2addeb315dc)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/4aa9a94a-bb47-49e5-9e6b-4be64956ac09)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/ee53b56a-ced9-4178-877f-934379ba4a10)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/80e0f1a0-0cd5-43a0-87fe-c23366e4089e)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/ca84bffd-e200-4587-b0ec-03009e8de24f)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/1500083f-58f7-412c-97c4-4d93e0ac67ac)
-</p>
-<br />
-
-![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/b92c5b64-a7ee-489d-938c-e110d1667186)
-</p>
-<br />
 
 
 
