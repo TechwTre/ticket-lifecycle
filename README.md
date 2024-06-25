@@ -143,21 +143,20 @@ Step 1: Sign into the Admin panel where we can add in our new agents. We then in
 </p>
 <br />
 
-Step 2:
-</p>
+Step 2: Administrator grants access to the correct department that allows access to the tools/assignments corresponding to the proper role of the new IT HelpDesk agent.
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/99ddb98f-1d35-4227-b05c-3b40d218e8f2)
 </p>
 <br />
 
-Step 3:
+Step 3: Administrator then grants the IT Help desk agent the proper permissions based upon: User, Organizations, Knowledgebase, and Miscellaneous corresponding to the effective role.
 </p>
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/91d40dae-6224-4f28-9dea-409697bd31b8)
 </p>
 <br />
 
-Step 4:
+Step 4: IT Help Desk agent has now been properly added to the correct team and onboarded into the system.
 </p>
 
 ![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/d345022c-1b17-4a26-b55e-72c548ee63b5)
