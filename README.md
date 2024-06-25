@@ -110,9 +110,67 @@ Step 7: This is the dashboard for our agent Jane after we have signed out of the
 </p>
 <br />
 
+<h2>Part 3: Assigning, Closing, Escalating Tickets</h2>
 
+Step 1: Here we have the Ticket that was assigned to jane by the escalation engineer/queue manager. This is a moderate/normal business impacting incident,therefore we would change our Priority to match such. Then also change our Service Level Agreement to the second most urgent: SEV-B
+</p>
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/7ef3f6d7-a98a-421e-b9fd-e547a06154bf)
+</p>
+<br />
 
+Step 2: Jane acknowledges the ticket she was assigned in the dashboard after signing on. Reviewing the SEV-B she has a 4hr grace period to adhere to the ticket. Clarifying the proper information as a IT Helpdesk agent, the next objective is to diagnose and resolve the issue to complete the onboarding of John.
+</p>
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/5e8cfce0-0604-4bf5-9770-ea0f2cee256c)
+</p>
+<br />
 
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/2cbc7e88-08e9-4fe7-af7b-9fbdeb77c3ee)
+</p>
+<br />
 
+<h3>Approach to Resolution:</h3>
+
+<h5> Initial Assessment:</h5> John needs to be Onboarded into the System with the correct permissons
+</p>
+<br />
+
+Step 1: Sign into the Admin panel where we can add in our new agents. We then input personal info accordingly as well as create a username and password for the agent. Then select the status of the Agent
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/1bef1c27-5f78-41a4-b1a2-816d868b181a)
+</p>
+<br />
+
+Step 2:
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/99ddb98f-1d35-4227-b05c-3b40d218e8f2)
+</p>
+<br />
+
+Step 3:
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/91d40dae-6224-4f28-9dea-409697bd31b8)
+</p>
+<br />
+
+Step 4:
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/d345022c-1b17-4a26-b55e-72c548ee63b5)
+</p>
+<br />
+
+Step 5: The IT Help desk agent then replies to the user informing them that the issue/task has been marked as resolved and then proceeds to close the Ticket.
+</p>
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/5a4d8a19-60d8-453c-a504-587a5b3e4b44)
+</p>
+<br />
+
+![image](https://github.com/TechwTre/ticket-lifecycle/assets/126909509/259a80d3-cec5-464f-8481-3bc369a35bd3)
+</p>
+<br />
